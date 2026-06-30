@@ -1,1 +1,1 @@
-echo 'print("Hello from Amazon Linux!")' > app.py
+echo 'print("Hello from Amazon Linux!")'
