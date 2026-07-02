@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.json({ message: "CI/CD Pipeline Working.Welcome to v2 🚀" });
+  res.json({ message: "CI/CD Pipeline Working.Welcome to v3 🚀" });
 });
 
 app.get('/health', (req, res) => {
